@@ -1,8 +1,8 @@
-# 📚 Personal Library - Aplikasi Manajemen Buku
+# Personal Library - Aplikasi Manajemen Buku
 
 ---
 
-## 👤 Informasi Mahasiswa
+## Informasi Mahasiswa
 
 | Keterangan         | Detail                         |
 | ------------------ | ------------------------------ |
@@ -13,19 +13,19 @@
 
 ---
 
-## 📋 Deskripsi Aplikasi
+## Deskripsi Aplikasi
 
 **Personal Library** adalah aplikasi web manajemen buku digital yang memungkinkan pengguna untuk:
 
-- 🔍 **Mencari buku** dari database Open Library dengan jutaan koleksi buku
-- 📖 **Menjelajahi buku** berdasarkan kategori (Fiksi, Romansa, Sejarah, dll)
-- 💾 **Menyimpan buku** ke koleksi pribadi
-- 📚 **Mengelola koleksi** dengan catatan dan status membaca
-- 📕 **Membaca buku** langsung melalui integrasi Project Gutenberg
+- **Mencari buku** dari database Open Library dengan jutaan koleksi buku
+- **Menjelajahi buku** berdasarkan kategori (Fiksi, Romansa, Sejarah, dll)
+- **Menyimpan buku** ke koleksi pribadi
+- **Mengelola koleksi** dengan catatan dan status membaca
+- **Membaca buku** langsung melalui integrasi Project Gutenberg
 
 ---
 
-## 🛠️ Teknologi yang Digunakan
+## Teknologi yang Digunakan
 
 ### Backend
 
@@ -64,7 +64,7 @@
 
 ---
 
-## 📦 Cara Instalasi (Installation Guide)
+##  Cara Instalasi (Installation Guide)
 
 ### Prasyarat (Prerequisites)
 
@@ -128,7 +128,7 @@ npm run build
 
 ---
 
-## 🚀 Cara Menjalankan Aplikasi
+## Cara Menjalankan Aplikasi
 
 ### Metode 1: Menjalankan Terpisah (Recommended untuk Development)
 
@@ -154,7 +154,7 @@ composer dev
 
 ---
 
-## 📱 Fitur Aplikasi
+## Fitur Aplikasi
 
 ### 1. Autentikasi
 
@@ -187,7 +187,7 @@ composer dev
 
 ---
 
-## 📸 Tangkapan Layar (Screenshots)
+## Tangkapan Layar (Screenshots)
 
 ### Halaman Login
 
@@ -209,7 +209,7 @@ composer dev
 
 ![Screenshot halaman baca buku](image-4.png)
 
-## 📁 Struktur Folder Utama
+## Struktur Folder Utama
 
 ```
 manajemen_buku/
@@ -241,7 +241,7 @@ manajemen_buku/
 
 ---
 
-## 🔗 Routes Utama
+## Routes Utama
 
 | Method | URI           | Deskripsi                          |
 | ------ | ------------- | ---------------------------------- |
@@ -254,7 +254,7 @@ manajemen_buku/
 
 ---
 
-## 📄 Lisensi
+## Lisensi
 
 Aplikasi ini menggunakan framework [Laravel](https://laravel.com) yang berlisensi [MIT license](https://opensource.org/licenses/MIT).
 
