@@ -34,7 +34,7 @@
 | **PHP**            | ^8.2  | Bahasa pemrograman utama             |
 | **Laravel**        | ^12.0 | Framework PHP untuk pengembangan web |
 | **Laravel Breeze** | ^2.3  | Starter kit autentikasi              |
-| **SQLite**         | -     | Database ringan untuk development    |
+| **MySQL**          | -     | Database ringan untuk development    |
 
 ### Frontend
 
