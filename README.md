@@ -109,8 +109,8 @@ php artisan key:generate
 #### 5. Setup Database
 
 ```bash
-# Buat file database SQLite
-type nul > database/database.sqlite
+# Buat file database MySQL
+type nul > database/database.msqyl
 
 # Jalankan migrasi database
 php artisan migrate
@@ -235,7 +235,7 @@ manajemen_buku/
 │   └── web.php                 # Definisi routes
 ├── database/
 │   ├── migrations/             # Database migrations
-│   └── database.sqlite         # Database SQLite
+│   └── database.mysql          # Database MySQL
 └── public/                     # Public assets
 ```
 
